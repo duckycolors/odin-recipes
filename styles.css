@@ -1,4 +1,4 @@
-body {
+#main-page-body {
     background-color: bisque;
 }
 
@@ -6,31 +6,35 @@ h1 {
     text-align: center;
 }
 
-p {
+#main-page-p {
     text-align: center;
 }
 
 #recipe-list {
     border: 1px solid red;
     width: 300px;
+    background-color: lightgray;
 }
 
 #gnocchi-div {
     border: 1px solid black;
     padding: 5px;
     margin: 5px;
+    background-color: lightcyan;
 }
 
 #chocMuffin-div {
     border: 1px solid black;
     padding: 5px;
     margin: 5px;
+    background-color: lightcyan;
 }
 
 #pizza-div {
     border: 1px solid black;
     padding: 5px;
     margin: 5px;
+    background-color: lightcyan;
 }
 
 #odin-logo {
